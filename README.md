@@ -1,7 +1,7 @@
 # colorationGraphe
 Un algorithme basique de coloration de graphe
 
-== Compiler ==
+== Compiler ==<br>
 1. Pour compiler le programme, écrire la commande suivante<br>
 <i>make all</i><br>
 
